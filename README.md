@@ -21,7 +21,7 @@ To analyze and visualize employee presence data to determine working preferences
 2. Creating Measures Using DAX:
 - Calculated Present %, Total Working Days, Work from Home %, Sick Leave %, and counts for each metric.
 - Built metrics for individual employees and overall trends.
-3.Dashboarding:
+3. Dashboarding:
 - Designed interactive visualizations for key metrics.
 - Made insights easy to interpret for HR and management.
 
